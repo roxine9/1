@@ -1,0 +1,17 @@
+http://www.heitan.wang/archives/725
+我之前提供的http://ikkapi.jd-app.com/ API在7月1号就要失效了，新API http://ikkapi-colle.rhcloud.com/
+
+只需要修改/system/class/cloud.php中的
+
+    const API_ROOT =
+    const API_ROOT_HTTPS =
+
+两行后面的网址就行了
+
+KK贴吧签到助手旧API失效，更换新API
+← 终于能死过来写东西了 一个可以在一定的时间间隔内依次输出数字的算法 →
+
+   白井黑炭
+
+    回复 微生梦阳: 下载到kk原版的api后里面有个 KK 留言.txt 那里面有方法。下载地址就在下面
+     http://vdisk.weibo.com/s/jHHh6AY6em3
